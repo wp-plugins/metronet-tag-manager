@@ -3,7 +3,7 @@ Contributors: ronalfy, metronet, pereirinha
 Tags: google, google tag manager, tag manager
 Requires at least: 3.1
 Tested up to: 3.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,10 +40,17 @@ Please refer to the <a href="https://developers.google.com/tag-manager/reference
 
 == Changelog ==
 
+= 1.0.1 =
+* Released 2012-07-24
+* Fixing TinyMCE JavaScript issue
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Fixing TinyMCE JavaScript bug.
 
 = 1.0 =
 Initial Release
