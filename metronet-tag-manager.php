@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/extend/plugins/metronet-tag-manager/
 Description: Add Google Tag Manager tracking and declare Data Layer variables
 Author: Metronet
 Version: 1.0.3
-Requires at least: 3.1
+Requires at least: 3.9
 Author URI: http://www.metronet.no
 Contributors: ronalfy, metronet, pereirinha
 */ 
